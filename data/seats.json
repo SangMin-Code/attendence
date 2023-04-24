@@ -1,0 +1,74 @@
+[
+        {
+            "seatNum" :1,
+            "name":"test1",
+            "studentNum":"1",
+            "period":1
+        },
+        {
+            "seatNum" :2,
+            "name":"test2",
+            "studentNum":"2",
+            "period":1
+        },
+        {
+            "seatNum" :3,
+            "name":"test3",
+            "studentNum":"3",
+            "period":1
+        },
+        {
+            "seatNum" :4,
+            "name":"test4",
+            "studentNum":"4",
+            "period":1
+        },
+        {
+            "seatNum" :5,
+            "name":"test5",
+            "studentNum":"5",
+            "period":1
+        },
+        {
+            "seatNum" :6,
+            "name":"test6",
+            "studentNum":"6",
+            "period":1
+        },
+        {
+            "seatNum" :7,
+            "name":"test7",
+            "studentNum":"7",
+            "period":1
+        },
+        {
+            "seatNum" :8,
+            "name":"test8",
+            "studentNum":"8",
+            "period":1
+        },
+        {
+            "seatNum" :9,
+            "name":"test9",
+            "studentNum":"9",
+            "period":1
+        },
+        {
+            "seatNum" :10,
+            "name":"test10",
+            "studentNum":"10",
+            "period":1
+        },
+        {
+            "seatNum" :11,
+            "name":"test11",
+            "studentNum":"11",
+            "period":1
+        },
+        {
+            "seatNum" :12,
+            "name":"test12",
+            "studentNum":"12",
+            "period":1
+        }
+]
